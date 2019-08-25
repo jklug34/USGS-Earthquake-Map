@@ -15,6 +15,7 @@ https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_month.geojson
 https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_plates.json
 
 
+## Screen Shots
 
 ![earthquake_map_with_layers_dark](https://user-images.githubusercontent.com/48166327/63646304-3fa2c680-c6c5-11e9-9b1e-8ded3eb7769c.PNG)
 
